@@ -1,14 +1,14 @@
 [
 {
   "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/1.jpg",
-  "href" : "https://tripmo.lk"
+  "href" : "http://www.slbc.lk/"
 },
 {
   "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/2.jpg",
-  "href" : "https://tripmo.lk"
+  "href" : "http://www.slbc.lk/?q=2"
 },
 {
   "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/3.jpg",
-  "href" : "https://tripmo.lk"
+  "href" : "http://www.slbc.lk/?q=3"
 }
 ]

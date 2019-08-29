@@ -1,16 +1,4 @@
 [
-{
-  "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/1.jpg",
-  "href" : "http://www.slbc.lk/"
-},
-{
-  "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/2.jpg",
-  "href" : "http://www.slbc.lk/?q=2"
-},
-{
-  "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/3.jpg",
-  "href" : "http://www.slbc.lk/?q=3"
-},
   {
   "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/4.jpg",
   "href" : "https://web.boc.lk"

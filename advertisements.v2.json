@@ -3,24 +3,40 @@
   {
     "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/1.gif",
     "href" : "https://web.boc.lk/boc/index.php?route=product/category&path=87_466_465&desc=1"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/2.jpeg",
+    "href" : "https://stacktech.io/"
   }
  ],
  "home-bottom": [
   {
     "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/1.gif",
     "href" : "https://web.boc.lk/boc/index.php?route=product/category&path=87_466_465&desc=1"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/2.jpeg",
+    "href" : "https://stacktech.io/"
   }
  ],
  "yaal-bottom": [
   {
     "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/1.gif",
     "href" : "https://web.boc.lk/boc/index.php?route=product/category&path=87_466_465&desc=1"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/2.jpeg",
+    "href" : "https://stacktech.io/"
   }
  ],
  "default": [
   {
     "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/1.gif",
     "href" : "https://web.boc.lk/boc/index.php?route=product/category&path=87_466_465&desc=1"
+   },
+  {
+    "image": "https://raw.githubusercontent.com/slbc-radio/cms/master/2.jpeg",
+    "href" : "https://stacktech.io/"
    }
  ]
 }
